@@ -26,11 +26,6 @@ This repository contains various Java programs without a specific folder structu
    java ProgramName        # Run
    ```
 
-## Sample File Preview
-
-Below is a preview of the available Java files:
-
-![Java Programming Files](https://raw.githubusercontent.com/yourusername/java-programming/main/Screenshot.png)
 
 ## Contributing
 
